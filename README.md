@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **girikgarg8@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tvq1xtYMRMDRTXOUEypq71nT6usGEQlq/view?usp=share_link)]
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tvq1xtYMRMDRTXOUEypq71nT6usGEQlq/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
