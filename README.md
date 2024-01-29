@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **girikgarg8@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wc4lne2vmpl4FzR4i6vVuGwWcc-EgITu/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/girik-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girik-garg" height="30" width="40" /></a>
