@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Girik Garg</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **ReactJs and Javascript projects**
-
-- 🌱 I’m currently learning **ReactJs,JavaScript,Java**
-
-- 👯 I’m looking to collaborate on **Java**
-
-- 💬 Ask me about **Data Structures and Algorithms**
+- 🔭 I’m currently working on **React and Javascript projects**
 
 - 📫 How to reach me **girikgarg8@gmail.com**
 
